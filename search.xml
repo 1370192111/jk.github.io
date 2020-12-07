@@ -1,31 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>测试</title>
-    <url>/posts/9daba997/</url>
-    <content><![CDATA[]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>blog</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>测试3</title>
-    <url>/posts/32423d5/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>测试2</title>
-    <url>/posts/74231343/</url>
-    <content><![CDATA[<h1 id="这是一篇测试文档"><a href="#这是一篇测试文档" class="headerlink" title="这是一篇测试文档"></a>这是一篇测试文档</h1>]]></content>
-      <tags>
-        <tag>测试2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156/</url>
     <content><![CDATA[<p>hexo基本命令</p>
