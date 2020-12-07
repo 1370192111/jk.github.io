@@ -4,8 +4,19 @@
     <title>测试</title>
     <url>/2020/12/07/%E6%B5%8B%E8%AF%95/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
       <tags>
         <tag>-测试 -blog</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>测试2</title>
+    <url>/2020/12/07/%E6%B5%8B%E8%AF%952/</url>
+    <content><![CDATA[<h1 id="这是一篇测试文档"><a href="#这是一篇测试文档" class="headerlink" title="这是一篇测试文档"></a>这是一篇测试文档</h1>]]></content>
+      <tags>
+        <tag>-测试2</tag>
       </tags>
   </entry>
   <entry>
