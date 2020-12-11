@@ -9,13 +9,13 @@
 <a id="more"></a>
 
 <h2 id="建站历程"><a href="#建站历程" class="headerlink" title="建站历程"></a>建站历程</h2><blockquote>
-<p>个人本人喜欢用hexo本地静态网站生成，所以就在本地建立了仓库，主题选用的是hexo next主题，在我个人的感觉中，hexo的三款主题是非常不错的，主题cuteen，next，和shoka书架，前几天都用的shoka主题，因为它的站点图片可以随时切换，支持多音乐播放，背景更好看，且代码块渲染效果更好，但是我本人是一个极简主义者，故采用了hexo 的next主题，next主题支持多个模式的切换，并且画面比较简洁，最重要的是会不断更新，主题cuteen我个人非常喜欢，但是要钱，故写博客我个人更注重分享知识！</p>
+<p>本人喜欢用hexo本地生成静态网站，所以就在本地建立了仓库，主题选用的是hexo next主题，hexo next主题，cuteen主题，shoka主题我个人都非常喜欢，前几天都用的shoka主题，因为它的站点图片可以随时切换，支持多音乐播放，背景和代码块渲染效果好，且支持数学公式，流程图，练习题等多种功能，但我本人喜欢next简洁的画面，故采用了hexo 的next主题，next主题支持多个样式的切换，并且画面比较简洁，最重要的是会不断更新，主题cuteen我个人非常喜欢，但是要钱买，写博客我个人更注重分享知识！所以以后就用hexo NEXT主题写下去！分享我个人的编程生活知识。</p>
 </blockquote>
 <h2 id="个人目标"><a href="#个人目标" class="headerlink" title="个人目标"></a>个人目标</h2><h3 id="建站小目标"><a href="#建站小目标" class="headerlink" title="建站小目标"></a>建站小目标</h3><ol>
 <li>写密码学基础和现代密码学文章  </li>
 <li>写c++面向对象程序设计文章  </li>
 <li>写python程序设计与项目开发文章  </li>
-<li>写CTF web安全 PWN MISC CTROTY方面的文章</li>
+<li>写CTF web安全 PWN MISC CRYPTO方面的文章</li>
 <li>写自己所学的编程知识</li>
 </ol>
 <h3 id="建站大目标"><a href="#建站大目标" class="headerlink" title="建站大目标"></a>建站大目标</h3><ol>
